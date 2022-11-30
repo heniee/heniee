@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyehyeon%20Jeong&fontSize=90)
 
 
-
+<div  align="center">
 
 ### 안녕하세요! 🌷
   
@@ -33,5 +33,4 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 
-
-
+</div>
