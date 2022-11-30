@@ -6,14 +6,14 @@
 
 <p align="center">
 ### ABOUT ME 🌷
-
+  
 </br>
 
 - 👩‍💻Back-End Developer
 - 
-</p>
+</
   
-<p align="center">
+
 ### SKILLS ⚒
 
 </br>
@@ -35,5 +35,5 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 
-</p>
+
 
