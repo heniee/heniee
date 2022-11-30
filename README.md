@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyehyeon%20Jeong&fontSize=90)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Alissa Yoon&fontSize=70" />
-</p>
+
 
 
 ### ABOUT ME 🌷
