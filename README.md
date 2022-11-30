@@ -4,14 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Alissa Yoon&fontSize=70" />
 </p>
 
-<p align="center">
+
 ### ABOUT ME 🌷
   
 </br>
 
 - 👩‍💻Back-End Developer
 - 
-</
+
   
 
 ### SKILLS ⚒
